@@ -1,0 +1,11 @@
+# 
+# ~~ ayunAutoSaver Config ~~
+# ~~ made by ayunami2000 ~~
+# 
+# Whitelist instead of blacklist the following worlds from being autosaved
+world_whitelist: false
+worlds: []
+interval: 6000
+world_intervals: {}
+main_messages: true
+world_messages: false
