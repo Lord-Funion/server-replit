@@ -1486,3 +1486,10 @@ INFO: Migrated 0 channel(s) to the new Selector.
 11:14:45 [INFO] Server bans.txt changed, it will be reloaded automatically
 11:14:45 [INFO] Reload complete
 11:14:46 [INFO] Listening on /127.11.0.1:34217
+14:59:36 [INFO] Enabled BungeeCord version unknown
+14:59:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:59:38 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:59:38 [INFO] Listening websockets on localhost/127.0.0.1:8082
+14:59:39 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:59:39 [INFO] Reload complete
+14:59:39 [INFO] Listening on /127.11.0.1:40519
