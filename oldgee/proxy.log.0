@@ -1,0 +1,1488 @@
+15:41:33 [INFO] Enabled BungeeCord version unknown
+15:41:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:41:35 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:41:35 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:41:36 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:41:36 [INFO] Reload complete
+15:41:36 [INFO] Listening on /127.11.0.1:45847
+15:41:37 [SEVERE] Exception in thread "main" 
+15:41:37 [SEVERE] java.io.IOException: Input/output error
+15:41:37 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:41:37 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:41:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:41:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:41:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:41:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:41:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+15:41:37 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+15:41:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+15:41:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+15:41:37 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+15:42:08 [INFO] Enabled BungeeCord version unknown
+15:42:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:42:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:42:11 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:42:12 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:42:12 [INFO] Reload complete
+15:42:13 [INFO] Listening on /127.11.0.1:35857
+15:42:55 [SEVERE] Exception in thread "main" 
+15:42:55 [SEVERE] java.io.IOException: Input/output error
+15:42:55 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:42:55 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:42:55 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:42:55 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:42:55 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:42:55 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:42:55 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+15:43:07 [INFO] Enabled BungeeCord version unknown
+15:43:10 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:43:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:43:11 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:43:12 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:43:12 [INFO] Reload complete
+15:43:12 [INFO] Listening on /127.11.0.1:34283
+15:44:00 [SEVERE] Exception in thread "main" 
+15:44:00 [SEVERE] java.io.IOException: Input/output error
+15:44:00 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:44:00 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:44:00 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:44:20 [INFO] Enabled BungeeCord version unknown
+15:44:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:44:21 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:44:21 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:44:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:44:23 [INFO] Reload complete
+15:44:23 [INFO] Listening on /127.11.0.1:45069
+15:48:20 [SEVERE] Exception in thread "main" 
+15:48:20 [SEVERE] java.io.IOException: Input/output error
+15:48:20 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:48:20 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:48:20 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:48:20 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:48:20 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:48:20 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:48:48 [INFO] Enabled BungeeCord version unknown
+15:48:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:48:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:48:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:48:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:48:52 [INFO] Reload complete
+15:48:52 [INFO] Listening on /127.11.0.1:46547
+15:49:42 [SEVERE] Exception in thread "main" 
+15:49:42 [SEVERE] java.io.IOException: Input/output error
+15:49:42 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:49:42 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:49:42 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:49:42 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:49:42 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:49:42 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:49:42 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+15:49:42 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+15:49:55 [INFO] Enabled BungeeCord version unknown
+15:49:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:49:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:49:59 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:50:01 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:50:01 [INFO] Reload complete
+15:50:02 [INFO] Listening on /127.11.0.1:34527
+15:50:15 [SEVERE] Exception in thread "main" 
+15:50:15 [SEVERE] java.io.IOException: Input/output error
+15:50:15 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:50:15 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:50:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:50:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:50:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:50:15 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:50:15 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+15:50:15 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+15:50:31 [INFO] Enabled BungeeCord version unknown
+15:50:34 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:50:34 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:50:34 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:50:35 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:50:35 [INFO] Reload complete
+15:50:35 [INFO] Listening on /127.11.0.1:40675
+15:54:48 [SEVERE] Exception in thread "main" 
+15:54:48 [SEVERE] java.io.IOException: Input/output error
+15:54:48 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:54:48 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:54:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:54:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:54:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:54:48 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:54:48 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+15:54:59 [INFO] Enabled BungeeCord version unknown
+15:55:02 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:55:02 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:55:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:55:03 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:55:03 [INFO] Reload complete
+15:55:04 [INFO] Listening on /127.11.0.1:40545
+15:55:32 [SEVERE] Exception in thread "main" 
+15:55:32 [SEVERE] java.io.IOException: Input/output error
+15:55:32 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:55:32 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:55:32 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:55:32 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:55:32 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:55:32 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:55:47 [INFO] Enabled BungeeCord version unknown
+15:55:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:55:49 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:55:49 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:55:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:55:51 [INFO] Listening on /127.11.0.1:40475
+15:55:51 [INFO] Reload complete
+15:58:29 [SEVERE] Exception in thread "main" 
+15:58:43 [INFO] Enabled BungeeCord version unknown
+15:58:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:58:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:58:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:58:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:58:47 [INFO] Reload complete
+15:58:48 [INFO] Listening on /127.11.0.1:45781
+16:01:07 [SEVERE] Exception in thread "main" 
+16:01:07 [SEVERE] java.io.IOException: Input/output error
+16:01:07 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:01:07 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:01:08 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:01:08 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:01:08 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:01:08 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:01:08 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:01:08 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:01:08 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+16:01:08 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+16:01:08 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+16:01:20 [INFO] Enabled BungeeCord version unknown
+16:01:22 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:01:22 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:01:22 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:01:23 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:01:24 [INFO] Reload complete
+16:01:24 [INFO] Listening on /127.11.0.1:46295
+16:10:30 [SEVERE] Exception in thread "main" 
+16:10:30 [SEVERE] java.io.IOException: Input/output error
+16:10:30 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:10:30 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:10:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:10:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:10:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:10:30 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:10:30 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:10:30 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:10:30 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+16:10:30 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+16:10:30 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+16:10:45 [INFO] Enabled BungeeCord version unknown
+16:10:48 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:10:48 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:10:48 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:10:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:10:49 [INFO] Reload complete
+16:10:50 [INFO] Listening on /127.11.0.1:44265
+16:15:35 [SEVERE] Exception in thread "main" 
+16:15:35 [SEVERE] java.io.IOException: Input/output error
+16:16:07 [INFO] Enabled BungeeCord version unknown
+16:16:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:16:09 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:16:10 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:16:11 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:16:11 [INFO] Reload complete
+16:16:11 [INFO] Listening on /127.11.0.1:33061
+16:19:30 [SEVERE] Exception in thread "main" 
+16:19:30 [SEVERE] java.io.IOException: Input/output error
+16:19:30 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:19:30 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:19:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:19:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:20:56 [INFO] Enabled BungeeCord version unknown
+16:20:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:20:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:20:59 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:21:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:21:00 [INFO] Reload complete
+16:21:00 [INFO] Listening on /127.11.0.1:39873
+16:22:41 [SEVERE] Exception in thread "main" 
+16:22:41 [SEVERE] java.io.IOException: Input/output error
+16:22:41 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:22:41 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:23:04 [INFO] Enabled BungeeCord version unknown
+16:23:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:23:07 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:23:07 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:23:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:23:08 [INFO] Reload complete
+16:23:08 [INFO] Listening on /127.11.0.1:43321
+16:23:41 [SEVERE] Exception in thread "main" 
+16:23:56 [INFO] Enabled BungeeCord version unknown
+16:24:18 [INFO] Enabled BungeeCord version unknown
+16:24:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:24:21 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:24:21 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:24:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:24:22 [INFO] Reload complete
+16:24:22 [INFO] Listening on /127.11.0.1:45667
+16:24:26 [SEVERE] Exception in thread "main" 
+16:24:26 [SEVERE] java.io.IOException: Input/output error
+16:24:26 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:24:26 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:24:26 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:24:26 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:24:26 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:24:26 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:24:26 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:24:26 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:24:26 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+16:24:26 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+16:24:26 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+16:24:37 [INFO] Enabled BungeeCord version unknown
+16:24:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:24:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:24:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:24:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:24:41 [INFO] Reload complete
+16:24:41 [INFO] Listening on /127.11.0.1:42597
+16:29:03 [SEVERE] Exception in thread "main" 
+16:29:03 [SEVERE] java.io.IOException: Input/output error
+16:29:03 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:29:03 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:29:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:29:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:29:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:29:03 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:29:03 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:29:19 [INFO] Enabled BungeeCord version unknown
+16:29:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:29:21 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:29:21 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:29:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:29:22 [INFO] Reload complete
+16:29:22 [INFO] Listening on /127.11.0.1:34229
+17:33:04 [INFO] Enabled BungeeCord version unknown
+17:33:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:33:06 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:33:06 [INFO] Listening websockets on localhost/127.0.0.1:8082
+17:33:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:33:08 [INFO] Reload complete
+17:33:08 [INFO] Listening on /127.11.0.1:41823
+20:44:14 [INFO] Enabled BungeeCord version unknown
+20:44:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:44:16 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:44:17 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:44:18 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:44:18 [INFO] Reload complete
+20:44:18 [INFO] Listening on /127.11.0.1:42941
+21:58:00 [INFO] Enabled BungeeCord version unknown
+21:58:02 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:58:02 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:58:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:58:04 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:58:04 [INFO] Reload complete
+21:58:04 [INFO] Listening on /127.11.0.1:42401
+04:04:44 [INFO] Enabled BungeeCord version unknown
+04:04:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+04:04:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+04:04:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+04:04:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+04:04:47 [INFO] Reload complete
+04:04:48 [INFO] Listening on /127.11.0.1:43521
+06:56:00 [INFO] Enabled BungeeCord version unknown
+06:56:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+06:56:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+06:56:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+06:56:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+06:56:05 [INFO] Reload complete
+06:56:05 [INFO] Listening on /127.11.0.1:43051
+08:58:23 [INFO] Enabled BungeeCord version unknown
+08:58:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:58:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:58:26 [INFO] Listening websockets on localhost/127.0.0.1:8082
+08:58:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:58:27 [INFO] Reload complete
+08:58:27 [INFO] Listening on /127.11.0.1:33963
+12:23:26 [INFO] Enabled BungeeCord version unknown
+12:23:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:23:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:23:28 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:23:30 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:23:30 [INFO] Reload complete
+12:23:30 [INFO] Listening on /127.11.0.1:39247
+13:24:47 [INFO] Enabled BungeeCord version unknown
+13:24:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:24:49 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:24:49 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:24:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:24:51 [INFO] Reload complete
+13:24:51 [INFO] Listening on /127.11.0.1:42517
+15:34:30 [INFO] [Autumn_leaves] <-> InitialHandler has connected
+15:34:30 [INFO] Player 'Autumn_leaves' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:34:30 [INFO] Player 'Autumn_leaves' [/127.0.0.1] is using an offline download
+15:34:30 [INFO] [Autumn_leaves] <-> ServerConnector [server] has connected
+15:34:33 [INFO] [Kaseythe3rd] <-> InitialHandler has connected
+15:34:33 [INFO] Player 'Kaseythe3rd' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:34:33 [INFO] Player 'Kaseythe3rd' [/127.0.0.1] is using an offline download
+15:34:33 [INFO] [Kaseythe3rd] <-> ServerConnector [server] has connected
+15:35:00 [INFO] [Autumn_leaves] -> UpstreamBridge has disconnected
+15:35:00 [INFO] [Autumn_leaves] <-> DownstreamBridge <-> [server] has disconnected
+15:35:00 [SEVERE] Apr 05, 2023 3:35:00 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+15:35:00 [SEVERE] Apr 05, 2023 3:35:00 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+15:36:54 [INFO] [Kaseythe3rd] -> UpstreamBridge has disconnected
+15:36:54 [INFO] [Kaseythe3rd] <-> DownstreamBridge <-> [server] has disconnected
+18:28:01 [INFO] Enabled BungeeCord version unknown
+18:28:04 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:28:04 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:28:04 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:28:06 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:28:06 [INFO] Reload complete
+18:28:06 [INFO] Listening on /127.11.0.1:37495
+20:02:47 [INFO] Enabled BungeeCord version unknown
+20:02:51 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:02:51 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:02:52 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:02:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:02:54 [INFO] Reload complete
+20:02:55 [INFO] Listening on /127.11.0.1:43491
+23:06:33 [INFO] Enabled BungeeCord version unknown
+23:06:36 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:06:36 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+23:06:36 [INFO] Listening websockets on localhost/127.0.0.1:8082
+23:06:38 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:06:38 [INFO] Listening on /127.11.0.1:42299
+23:06:38 [INFO] Reload complete
+00:35:43 [INFO] Enabled BungeeCord version unknown
+00:35:44 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:35:45 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:35:45 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:35:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:35:46 [INFO] Reload complete
+00:35:46 [INFO] Listening on /127.11.0.1:43645
+00:55:38 [INFO] Enabled BungeeCord version unknown
+00:55:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:55:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:55:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:55:42 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:55:42 [INFO] Reload complete
+00:55:42 [INFO] Listening on /127.11.0.1:35029
+03:58:37 [INFO] Enabled BungeeCord version unknown
+03:58:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+03:58:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+03:58:41 [INFO] Listening websockets on localhost/127.0.0.1:8082
+03:58:43 [INFO] Server bans.txt changed, it will be reloaded automatically
+03:58:43 [INFO] Reload complete
+03:58:43 [INFO] Listening on /127.11.0.1:35285
+05:48:48 [INFO] Enabled BungeeCord version unknown
+05:48:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+05:48:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+05:48:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+05:48:52 [INFO] Server bans.txt changed, it will be reloaded automatically
+05:48:52 [INFO] Reload complete
+05:48:52 [INFO] Listening on /127.11.0.1:35477
+06:49:39 [INFO] Enabled BungeeCord version unknown
+06:49:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+06:49:43 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+06:49:43 [INFO] Listening websockets on localhost/127.0.0.1:8082
+06:49:45 [INFO] Server bans.txt changed, it will be reloaded automatically
+06:49:45 [INFO] Reload complete
+06:49:45 [INFO] Listening on /127.11.0.1:40667
+08:27:48 [INFO] Enabled BungeeCord version unknown
+08:27:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:27:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:27:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+08:27:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:27:52 [INFO] Reload complete
+08:27:52 [INFO] Listening on /127.11.0.1:41955
+10:09:31 [INFO] Enabled BungeeCord version unknown
+10:09:33 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:09:33 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:09:33 [INFO] Listening websockets on localhost/127.0.0.1:8082
+10:09:34 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:09:34 [INFO] Reload complete
+10:09:34 [INFO] Listening on /127.11.0.1:33967
+13:05:09 [INFO] Enabled BungeeCord version unknown
+13:05:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:05:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:05:11 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:05:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:05:13 [INFO] Reload complete
+13:05:13 [INFO] Listening on /127.11.0.1:37629
+14:47:00 [INFO] Enabled BungeeCord version unknown
+14:47:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:47:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:47:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+14:47:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:47:05 [INFO] Reload complete
+14:47:05 [INFO] Listening on /127.11.0.1:33991
+14:55:48 [INFO] [Kaseythe3rd] <-> InitialHandler has connected
+14:55:48 [INFO] Player 'Kaseythe3rd' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:55:48 [INFO] Player 'Kaseythe3rd' [/127.0.0.1] is using an offline download
+14:55:48 [INFO] [Kaseythe3rd] <-> ServerConnector [server] has connected
+14:56:45 [WARNING] [Kaseythe3rd] -> UpstreamBridge - IOException: Connection reset by peer
+14:56:45 [INFO] [Kaseythe3rd] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+14:56:45 [INFO] [Kaseythe3rd] -> UpstreamBridge has disconnected
+14:56:45 [INFO] [Kaseythe3rd] <-> DownstreamBridge <-> [server] has disconnected
+14:56:46 [SEVERE] Apr 06, 2023 2:56:45 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+14:56:46 [SEVERE] Apr 06, 2023 2:56:46 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+15:47:24 [INFO] [houselander] <-> InitialHandler has connected
+15:47:24 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:47:24 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+15:47:24 [INFO] [houselander] <-> ServerConnector [server] has connected
+15:51:46 [INFO] [houselander] -> UpstreamBridge has disconnected
+15:51:46 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+16:59:07 [INFO] [houselander] <-> InitialHandler has connected
+16:59:07 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:59:07 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+16:59:07 [INFO] [houselander] <-> ServerConnector [server] has connected
+16:59:42 [INFO] [houselander] -> UpstreamBridge has disconnected
+16:59:42 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+17:01:17 [INFO] [houselander] <-> InitialHandler has connected
+17:01:17 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:01:17 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+17:01:17 [INFO] [houselander] <-> ServerConnector [server] has connected
+17:01:27 [INFO] [houselander] -> UpstreamBridge has disconnected
+17:01:27 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+18:01:07 [INFO] [houselander] <-> InitialHandler has connected
+18:01:07 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:01:07 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+18:01:07 [INFO] [houselander] <-> ServerConnector [server] has connected
+18:04:43 [INFO] [houselander] -> UpstreamBridge has disconnected
+18:04:43 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+19:22:35 [INFO] [houselander] <-> InitialHandler has connected
+19:22:35 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:22:35 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+19:22:35 [INFO] [houselander] <-> ServerConnector [server] has connected
+19:30:53 [WARNING] [houselander] -> UpstreamBridge - read timed out
+19:30:53 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+19:30:53 [INFO] [houselander] -> UpstreamBridge has disconnected
+19:30:53 [SEVERE] Apr 06, 2023 7:30:53 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+19:30:53 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+19:30:53 [SEVERE] Apr 06, 2023 7:30:53 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+19:33:04 [INFO] [sharky_boo] <-> InitialHandler has connected
+19:33:04 [INFO] Player 'sharky_boo' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:33:04 [INFO] Player 'sharky_boo' [/127.0.0.1] is using a client at: sd592g.github.io
+19:33:04 [INFO] [sharky_boo] <-> ServerConnector [server] has connected
+19:33:35 [INFO] [houselander] <-> InitialHandler has connected
+19:33:35 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:33:35 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+19:33:35 [INFO] [houselander] <-> ServerConnector [server] has connected
+19:39:35 [WARNING] [houselander] -> UpstreamBridge - read timed out
+19:39:35 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+19:39:35 [INFO] [houselander] -> UpstreamBridge has disconnected
+19:39:35 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+19:50:12 [INFO] [houselander] <-> InitialHandler has connected
+19:50:12 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:50:12 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+19:50:12 [INFO] [houselander] <-> ServerConnector [server] has connected
+19:57:43 [WARNING] [houselander] -> UpstreamBridge - read timed out
+19:57:43 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+19:57:43 [INFO] [houselander] -> UpstreamBridge has disconnected
+19:57:43 [SEVERE] Apr 06, 2023 7:57:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+19:57:44 [SEVERE] Apr 06, 2023 7:57:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+19:57:44 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+19:58:05 [INFO] [houselander] <-> InitialHandler has connected
+19:58:05 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:58:05 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+19:58:05 [INFO] [houselander] <-> ServerConnector [server] has connected
+20:00:24 [INFO] [houselander] -> UpstreamBridge has disconnected
+20:00:24 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+20:04:47 [INFO] [houselander] <-> InitialHandler has connected
+20:04:47 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+20:04:47 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+20:04:48 [INFO] [houselander] <-> ServerConnector [server] has connected
+20:10:10 [INFO] [houselander] -> UpstreamBridge has disconnected
+20:10:10 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+20:10:35 [INFO] [sharky_boo] -> UpstreamBridge has disconnected
+20:10:35 [INFO] [sharky_boo] <-> DownstreamBridge <-> [server] has disconnected
+20:47:54 [INFO] [IAWRLD] <-> InitialHandler has connected
+20:47:54 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+20:47:54 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+20:47:54 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+20:54:38 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+20:54:38 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+20:55:25 [INFO] [IAWRLD] <-> InitialHandler has connected
+20:55:25 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+20:55:25 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+20:55:26 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:06:21 [INFO] [sharky_boo] <-> InitialHandler has connected
+21:06:21 [INFO] Player 'sharky_boo' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:06:21 [INFO] Player 'sharky_boo' [/127.0.0.1] is using a client at: sd592g.github.io
+21:06:21 [INFO] [sharky_boo] <-> ServerConnector [server] has connected
+21:16:28 [INFO] [nigger123] <-> InitialHandler has connected
+21:16:28 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:16:28 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+21:16:29 [INFO] [nigger123] <-> ServerConnector [server] has connected
+21:17:13 [WARNING] [IAWRLD] -> UpstreamBridge - IOException: Connection reset by peer
+21:17:13 [INFO] [IAWRLD] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+21:17:13 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:17:13 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:17:22 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:17:22 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:17:22 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:17:22 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:35:03 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:35:03 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:35:49 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:35:49 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:35:49 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:35:49 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:36:36 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:36:36 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:36:36 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:36:48 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:36:48 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:36:48 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:36:48 [SEVERE] Apr 06, 2023 9:36:48 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:36:48 [SEVERE] Apr 06, 2023 9:36:48 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+21:36:58 [WARNING] [IAWRLD] -> UpstreamBridge - read timed out
+21:36:58 [INFO] [IAWRLD] disconnected with: ReadTimeoutException : null
+21:36:58 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:36:58 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:37:00 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:37:00 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:37:00 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:37:00 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:38:12 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:38:12 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:38:23 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:38:23 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:38:23 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:38:23 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:39:50 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:39:50 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:39:58 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:39:58 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:39:58 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:39:59 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:40:17 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+21:40:18 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+21:40:21 [INFO] [nigger123] -> UpstreamBridge has disconnected
+21:40:21 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+21:40:29 [INFO] [IAWRLD] <-> InitialHandler has connected
+21:40:29 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:40:29 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+21:40:29 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+21:40:34 [INFO] [nigger123] <-> InitialHandler has connected
+21:40:34 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:40:34 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+21:40:34 [INFO] [nigger123] <-> ServerConnector [server] has connected
+21:51:48 [INFO] [nigger123] -> UpstreamBridge has disconnected
+21:51:48 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+21:52:01 [INFO] [nigger123] <-> InitialHandler has connected
+21:52:01 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:52:01 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+21:52:01 [INFO] [nigger123] <-> ServerConnector [server] has connected
+22:01:35 [WARNING] [nigger123] -> UpstreamBridge - read timed out
+22:01:35 [INFO] [nigger123] disconnected with: ReadTimeoutException : null
+22:01:35 [INFO] [nigger123] -> UpstreamBridge has disconnected
+22:01:35 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+22:02:59 [INFO] [nigger123] <-> InitialHandler has connected
+22:02:59 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:02:59 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+22:03:00 [INFO] [nigger123] <-> ServerConnector [server] has connected
+22:04:55 [INFO] [nigger123] -> UpstreamBridge has disconnected
+22:04:55 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+22:05:09 [INFO] [nigger123] <-> InitialHandler has connected
+22:05:09 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:05:09 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+22:05:09 [INFO] [nigger123] <-> ServerConnector [server] has connected
+22:11:23 [INFO] [sharky_boo] -> UpstreamBridge has disconnected
+22:11:23 [INFO] [sharky_boo] <-> DownstreamBridge <-> [server] has disconnected
+22:11:23 [SEVERE] Apr 06, 2023 10:11:23 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+22:11:23 [SEVERE] Apr 06, 2023 10:11:23 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 5 channel(s) to the new Selector.
+
+22:12:21 [INFO] [sharky_boo] <-> InitialHandler has connected
+22:12:21 [INFO] Player 'sharky_boo' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:12:21 [INFO] Player 'sharky_boo' [/127.0.0.1] is using a client at: sd592g.github.io
+22:12:22 [INFO] [sharky_boo] <-> ServerConnector [server] has connected
+22:15:44 [INFO] [nigger123] -> UpstreamBridge has disconnected
+22:15:44 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+22:15:54 [INFO] [nigger123] <-> InitialHandler has connected
+22:15:54 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:15:54 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+22:15:54 [INFO] [nigger123] <-> ServerConnector [server] has connected
+22:20:43 [INFO] [sharky_boo] -> UpstreamBridge has disconnected
+22:20:43 [INFO] [sharky_boo] <-> DownstreamBridge <-> [server] has disconnected
+22:20:43 [SEVERE] Apr 06, 2023 10:20:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+22:20:43 [SEVERE] Apr 06, 2023 10:20:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 5 channel(s) to the new Selector.
+
+22:26:05 [INFO] [nigger123] -> UpstreamBridge has disconnected
+22:26:05 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+22:46:32 [INFO] Enabled BungeeCord version unknown
+22:46:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:46:35 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:46:36 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:46:38 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:46:38 [INFO] Reload complete
+22:46:38 [INFO] Listening on /127.11.0.1:43091
+22:47:37 [INFO] [IAWRLD] <-> InitialHandler has connected
+22:47:37 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:47:37 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+22:47:37 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+22:54:07 [INFO] [sharky_boo] <-> InitialHandler has connected
+22:54:07 [INFO] Player 'sharky_boo' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:54:07 [INFO] Player 'sharky_boo' [/127.0.0.1] is using a client at: sd592g.github.io
+22:54:07 [INFO] [sharky_boo] <-> ServerConnector [server] has connected
+22:59:36 [INFO] [IAWRLD] disconnected with: [Proxy] Lost connection to server.
+22:59:36 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+22:59:36 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+22:59:44 [INFO] [IAWRLD] <-> InitialHandler has connected
+22:59:44 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:59:44 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+22:59:44 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+23:20:07 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+23:20:07 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+23:20:57 [INFO] [IAWRLD] <-> InitialHandler has connected
+23:20:57 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:20:57 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+23:20:58 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+23:22:24 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+23:22:24 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+23:22:31 [INFO] [IAWRLD] <-> InitialHandler has connected
+23:22:31 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:22:31 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+23:22:31 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+23:28:25 [INFO] [nigger123] <-> InitialHandler has connected
+23:28:25 [INFO] Player 'nigger123' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:28:25 [INFO] Player 'nigger123' [/127.0.0.1] is using a client at: sd592g.github.io
+23:28:25 [INFO] [nigger123] <-> ServerConnector [server] has connected
+23:30:55 [INFO] [sharky_boo] disconnected with: [Proxy] Lost connection to server.
+23:30:55 [INFO] [sharky_boo] <-> DownstreamBridge <-> [server] has disconnected
+23:30:55 [INFO] [sharky_boo] -> UpstreamBridge has disconnected
+23:31:46 [INFO] [nigger123] -> UpstreamBridge has disconnected
+23:31:46 [INFO] [nigger123] <-> DownstreamBridge <-> [server] has disconnected
+23:50:03 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+23:50:03 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+01:30:30 [INFO] [MERCY] <-> InitialHandler has connected
+01:30:30 [INFO] Player 'MERCY' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+01:30:30 [INFO] Player 'MERCY' [/127.0.0.1] is using a client at: sd592g.github.io
+01:30:30 [INFO] [MERCY] <-> ServerConnector [server] has connected
+01:36:59 [INFO] [MERCY] -> UpstreamBridge has disconnected
+01:36:59 [INFO] [MERCY] <-> DownstreamBridge <-> [server] has disconnected
+04:13:58 [INFO] Enabled BungeeCord version unknown
+04:14:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+04:14:01 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+04:14:01 [INFO] Listening websockets on localhost/127.0.0.1:8082
+04:14:02 [INFO] Server bans.txt changed, it will be reloaded automatically
+04:14:02 [INFO] Reload complete
+04:14:03 [INFO] Listening on /127.11.0.1:43999
+11:58:21 [INFO] Enabled BungeeCord version unknown
+11:58:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:58:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:58:26 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:58:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:58:28 [INFO] Reload complete
+11:58:28 [INFO] Listening on /127.11.0.1:41261
+15:07:50 [INFO] Enabled BungeeCord version unknown
+15:07:52 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:07:52 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:07:52 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:07:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:07:54 [INFO] Reload complete
+15:07:54 [INFO] Listening on /127.11.0.1:46801
+17:54:01 [INFO] Enabled BungeeCord version unknown
+17:54:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:54:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:54:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+17:54:04 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:54:04 [INFO] Reload complete
+17:54:04 [INFO] Listening on /127.11.0.1:33885
+17:55:13 [INFO] [IAWRLD] <-> InitialHandler has connected
+17:55:13 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:55:13 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+17:55:13 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+18:02:16 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+18:02:17 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+19:13:40 [INFO] Enabled BungeeCord version unknown
+19:13:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:13:42 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:13:42 [INFO] Listening websockets on localhost/127.0.0.1:8082
+19:13:43 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:13:43 [INFO] Reload complete
+19:13:43 [INFO] Listening on /127.11.0.1:40511
+20:36:43 [INFO] Enabled BungeeCord version unknown
+20:36:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:36:47 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:36:47 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:36:48 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:36:48 [INFO] Reload complete
+20:36:48 [INFO] Listening on /127.11.0.1:36929
+22:39:51 [INFO] Enabled BungeeCord version unknown
+22:39:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:39:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:39:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:39:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:39:55 [INFO] Reload complete
+22:39:56 [INFO] Listening on /127.11.0.1:42167
+23:46:05 [INFO] [IAWRLD] <-> InitialHandler has connected
+23:46:05 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:46:05 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+23:46:05 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+23:49:54 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+23:49:54 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+23:50:00 [INFO] [IAWRLD] <-> InitialHandler has connected
+23:50:00 [INFO] Player 'IAWRLD' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:50:00 [INFO] Player 'IAWRLD' [/127.0.0.1] is using a client at: sd592g.github.io
+23:50:00 [INFO] [IAWRLD] <-> ServerConnector [server] has connected
+23:51:13 [INFO] [IAWRLD] -> UpstreamBridge has disconnected
+23:51:13 [INFO] [IAWRLD] <-> DownstreamBridge <-> [server] has disconnected
+01:42:07 [INFO] Enabled BungeeCord version unknown
+01:42:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+01:42:09 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+01:42:09 [INFO] Listening websockets on localhost/127.0.0.1:8082
+01:42:10 [INFO] Server bans.txt changed, it will be reloaded automatically
+01:42:10 [INFO] Reload complete
+01:42:10 [INFO] Listening on /127.11.0.1:36555
+01:45:40 [INFO] [MERCY] <-> InitialHandler has connected
+01:45:40 [INFO] Player 'MERCY' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+01:45:40 [INFO] Player 'MERCY' [/127.0.0.1] is using a client at: sd592g.github.io
+01:45:41 [INFO] [MERCY] <-> ServerConnector [server] has connected
+01:46:47 [INFO] [i_love_y] <-> InitialHandler has connected
+01:46:47 [INFO] Player 'i_love_y' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+01:46:47 [INFO] Player 'i_love_y' [/127.0.0.1] is using a client at: sd592g.github.io
+01:46:47 [INFO] [i_love_y] <-> ServerConnector [server] has connected
+01:48:07 [WARNING] [i_love_y] -> UpstreamBridge - read timed out
+01:48:07 [INFO] [i_love_y] disconnected with: ReadTimeoutException : null
+01:48:07 [INFO] [i_love_y] -> UpstreamBridge has disconnected
+01:48:07 [INFO] [i_love_y] <-> DownstreamBridge <-> [server] has disconnected
+02:23:41 [INFO] [i_love_y] <-> InitialHandler has connected
+02:23:41 [INFO] Player 'i_love_y' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:23:41 [INFO] Player 'i_love_y' [/127.0.0.1] is using a client at: sd592g.github.io
+02:23:41 [INFO] [i_love_y] <-> ServerConnector [server] has connected
+02:47:40 [INFO] [houselander] <-> InitialHandler has connected
+02:47:40 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:47:40 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+02:47:40 [INFO] [houselander] <-> ServerConnector [server] has connected
+02:48:17 [WARNING] [houselander] -> UpstreamBridge - read timed out
+02:48:17 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+02:48:17 [INFO] [houselander] -> UpstreamBridge has disconnected
+02:48:17 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+02:52:08 [INFO] [MERCY] -> UpstreamBridge has disconnected
+02:52:08 [INFO] [MERCY] <-> DownstreamBridge <-> [server] has disconnected
+02:55:51 [INFO] [houselander] <-> InitialHandler has connected
+02:55:51 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:55:51 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+02:55:52 [INFO] [houselander] <-> ServerConnector [server] has connected
+02:59:24 [WARNING] [houselander] -> UpstreamBridge - read timed out
+02:59:24 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+02:59:24 [INFO] [houselander] -> UpstreamBridge has disconnected
+02:59:24 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+02:59:24 [SEVERE] Apr 08, 2023 2:59:24 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+02:59:24 [SEVERE] Apr 08, 2023 2:59:24 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+02:59:54 [INFO] [houselander] <-> InitialHandler has connected
+02:59:54 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:59:54 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+02:59:54 [INFO] [houselander] <-> ServerConnector [server] has connected
+03:00:22 [WARNING] [i_love_y] -> UpstreamBridge - read timed out
+03:00:22 [INFO] [i_love_y] disconnected with: ReadTimeoutException : null
+03:00:22 [INFO] [i_love_y] -> UpstreamBridge has disconnected
+03:00:22 [SEVERE] Apr 08, 2023 3:00:22 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+03:00:22 [SEVERE] Apr 08, 2023 3:00:22 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+03:00:22 [INFO] [i_love_y] <-> DownstreamBridge <-> [server] has disconnected
+03:02:06 [INFO] [MERCY] <-> InitialHandler has connected
+03:02:06 [INFO] Player 'MERCY' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+03:02:06 [INFO] Player 'MERCY' [/127.0.0.1] is using a client at: sd592g.github.io
+03:02:06 [INFO] [MERCY] <-> ServerConnector [server] has connected
+03:02:06 [INFO] [i_love_y] <-> InitialHandler has connected
+03:02:06 [INFO] Player 'i_love_y' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+03:02:06 [INFO] Player 'i_love_y' [/127.0.0.1] is using a client at: sd592g.github.io
+03:02:07 [INFO] [i_love_y] <-> ServerConnector [server] has connected
+03:05:12 [INFO] [houselander] <-> InitialHandler has connected
+03:05:12 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+03:05:12 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+03:05:12 [SEVERE] java.io.IOException: Connection reset by peer
+03:05:12 [SEVERE] 	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+03:05:12 [SEVERE] 	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+03:05:12 [SEVERE] 	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+03:05:12 [SEVERE] 	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+03:05:12 [SEVERE] 	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+03:05:12 [SEVERE] 	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+03:05:12 [SEVERE] 	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:887)
+03:05:12 [SEVERE] 	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:247)
+03:05:12 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:89)
+03:05:12 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+03:05:12 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+03:05:12 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+03:05:12 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+03:05:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:750)
+03:05:14 [WARNING] [houselander] -> UpstreamBridge - read timed out
+03:05:14 [INFO] [houselander] disconnected with: ReadTimeoutException : null
+03:05:14 [INFO] [houselander] -> UpstreamBridge has disconnected
+03:05:14 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+03:05:24 [INFO] [houselander] <-> InitialHandler has connected
+03:05:24 [INFO] Player 'houselander' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+03:05:24 [INFO] Player 'houselander' [/127.0.0.1] is using a client at: sd592g.github.io
+03:05:24 [INFO] [houselander] <-> ServerConnector [server] has connected
+03:28:01 [INFO] [VoolEagl32] <-> InitialHandler has connected
+03:28:01 [INFO] Player 'VoolEagl32' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+03:28:01 [INFO] Player 'VoolEagl32' [/127.0.0.1] is using a client at: eaglercraft.ru
+03:28:01 [INFO] [VoolEagl32] <-> ServerConnector [server] has connected
+03:28:47 [INFO] [VoolEagl32] -> UpstreamBridge has disconnected
+03:28:47 [INFO] [VoolEagl32] <-> DownstreamBridge <-> [server] has disconnected
+03:34:12 [INFO] [houselander] -> UpstreamBridge has disconnected
+03:34:12 [INFO] [houselander] <-> DownstreamBridge <-> [server] has disconnected
+03:34:12 [SEVERE] Apr 08, 2023 3:34:12 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+03:34:12 [SEVERE] Apr 08, 2023 3:34:12 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 5 channel(s) to the new Selector.
+
+03:38:45 [WARNING] [MERCY] -> UpstreamBridge - IOException: Connection reset by peer
+03:38:45 [INFO] [MERCY] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+03:38:45 [INFO] [MERCY] -> UpstreamBridge has disconnected
+03:38:45 [INFO] [MERCY] <-> DownstreamBridge <-> [server] has disconnected
+03:48:06 [WARNING] [i_love_y] -> UpstreamBridge - read timed out
+03:48:06 [INFO] [i_love_y] disconnected with: ReadTimeoutException : null
+03:48:06 [INFO] [i_love_y] -> UpstreamBridge has disconnected
+03:48:06 [SEVERE] Apr 08, 2023 3:48:06 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+03:48:06 [INFO] [i_love_y] <-> DownstreamBridge <-> [server] has disconnected
+03:48:06 [SEVERE] Apr 08, 2023 3:48:06 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+06:08:26 [INFO] Enabled BungeeCord version unknown
+06:08:29 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+06:08:29 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+06:08:29 [INFO] Listening websockets on localhost/127.0.0.1:8082
+06:08:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+06:08:31 [INFO] Reload complete
+06:08:31 [INFO] Listening on /127.11.0.1:43491
+10:16:06 [INFO] Enabled BungeeCord version unknown
+10:16:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:16:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:16:12 [INFO] Listening websockets on localhost/127.0.0.1:8082
+10:16:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:16:15 [INFO] Reload complete
+10:16:16 [INFO] Listening on /127.11.0.1:35615
+11:57:43 [INFO] Enabled BungeeCord version unknown
+11:57:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:57:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:57:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:57:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:57:48 [INFO] Reload complete
+11:57:48 [INFO] Listening on /127.11.0.1:42887
+15:12:02 [INFO] Enabled BungeeCord version unknown
+15:12:04 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:12:04 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:12:05 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:12:06 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:12:06 [INFO] Reload complete
+15:12:06 [INFO] Listening on /127.11.0.1:44717
+15:12:37 [INFO] [MERCY] <-> InitialHandler has connected
+15:12:37 [INFO] Player 'MERCY' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:12:37 [INFO] Player 'MERCY' [/127.0.0.1] is using a client at: sd592g.github.io
+15:12:38 [INFO] [MERCY] <-> ServerConnector [server] has connected
+15:16:49 [INFO] Enabled BungeeCord version unknown
+15:16:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:16:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:16:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:16:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:16:51 [INFO] Reload complete
+15:16:51 [INFO] Listening on /127.11.0.1:46375
+15:17:47 [INFO] §cCommand not found
+15:17:50 [INFO] §cCommand not found
+15:17:54 [INFO] §cCommand not found
+15:17:56 [INFO] §cCommand not found
+15:20:50 [SEVERE] Exception in thread "main" 
+15:20:50 [SEVERE] java.io.IOException: Input/output error
+15:20:50 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:20:50 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:20:50 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:20:50 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:20:59 [INFO] Enabled BungeeCord version unknown
+15:21:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:21:01 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:21:01 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:21:02 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:21:02 [INFO] Reload complete
+15:21:02 [INFO] Listening on /127.11.0.1:35953
+15:23:22 [SEVERE] Exception in thread "main" 
+15:23:22 [SEVERE] java.io.IOException: Input/output error
+15:23:22 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:23:22 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:23:22 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:23:32 [INFO] Enabled BungeeCord version unknown
+15:23:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:23:35 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:23:35 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:23:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:23:37 [INFO] Reload complete
+15:23:37 [INFO] Listening on /127.11.0.1:41555
+15:24:18 [SEVERE] Exception in thread "main" 
+15:24:18 [SEVERE] java.io.IOException: Input/output error
+15:24:18 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:24:18 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:24:18 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:24:18 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:24:18 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:24:18 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+15:24:29 [INFO] Enabled BungeeCord version unknown
+15:24:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:24:31 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:24:32 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:24:32 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:24:32 [INFO] Reload complete
+15:24:32 [INFO] Listening on /127.11.0.1:36815
+15:28:22 [SEVERE] Exception in thread "main" 
+15:28:22 [SEVERE] java.io.IOException: Input/output error
+15:28:22 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+15:28:22 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+15:28:22 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+15:28:22 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+15:28:22 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+15:28:36 [INFO] Enabled BungeeCord version unknown
+15:28:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:28:39 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:28:39 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:28:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:28:41 [INFO] Reload complete
+15:28:41 [INFO] Listening on /127.11.0.1:34215
+13:18:23 [INFO] Enabled BungeeCord version unknown
+13:18:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:18:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:18:25 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:18:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:18:27 [INFO] Reload complete
+13:18:27 [INFO] Listening on /127.11.0.1:45355
+12:25:41 [INFO] Enabled BungeeCord version unknown
+12:25:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:25:43 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:25:43 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:25:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:25:44 [INFO] Reload complete
+12:25:44 [INFO] Listening on /127.11.0.1:45331
+20:01:11 [INFO] Enabled BungeeCord version unknown
+20:01:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:01:13 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:01:13 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:01:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:01:14 [INFO] Reload complete
+20:01:14 [INFO] Listening on /127.11.0.1:44587
+20:56:38 [SEVERE] Exception in thread "main" 
+20:56:38 [SEVERE] java.io.IOException: Input/output error
+20:56:38 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+20:56:38 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+20:56:38 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+20:56:38 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+20:56:53 [INFO] Enabled BungeeCord version unknown
+20:56:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:56:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:56:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:56:56 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:56:56 [INFO] Reload complete
+20:56:56 [INFO] Listening on /127.11.0.1:34329
+20:57:58 [SEVERE] Exception in thread "main" 
+20:58:09 [INFO] Enabled BungeeCord version unknown
+20:58:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:58:12 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:58:12 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:58:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:58:13 [INFO] Reload complete
+20:58:13 [INFO] Listening on /127.11.0.1:46267
+20:58:50 [SEVERE] Exception in thread "main" 
+20:58:50 [SEVERE] java.io.IOException: Input/output error
+20:58:51 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+20:58:51 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+20:58:51 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+20:58:51 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+20:58:51 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+20:58:51 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+20:58:51 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+20:58:51 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+20:58:51 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+20:58:51 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+20:58:51 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+20:59:03 [INFO] Enabled BungeeCord version unknown
+20:59:05 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:59:05 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:59:05 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:59:06 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:59:06 [INFO] Reload complete
+20:59:06 [INFO] Listening on /127.11.0.1:45027
+21:05:58 [SEVERE] Exception in thread "main" 
+21:05:58 [SEVERE] java.io.IOException: Input/output error
+21:05:58 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:05:58 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:05:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:05:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+21:05:58 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+21:05:58 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+21:05:58 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+21:05:58 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+21:05:58 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+21:05:58 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+21:05:58 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+21:06:09 [INFO] Enabled BungeeCord version unknown
+21:06:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:06:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:06:12 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:06:12 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:06:13 [INFO] Reload complete
+21:06:13 [INFO] Listening on /127.11.0.1:40139
+21:24:52 [SEVERE] Exception in thread "main" 
+21:24:52 [SEVERE] java.io.IOException: Input/output error
+21:24:52 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:24:52 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:24:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:24:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+21:24:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+21:24:52 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+21:24:52 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+21:24:52 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+21:24:52 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+21:24:52 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+21:24:52 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+21:25:02 [INFO] Enabled BungeeCord version unknown
+21:25:05 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:25:05 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:25:05 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:25:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:25:06 [INFO] Listening on /127.11.0.1:43339
+21:25:06 [INFO] Reload complete
+12:26:33 [INFO] Enabled BungeeCord version unknown
+12:26:36 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:26:36 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:26:36 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:26:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:26:37 [INFO] Reload complete
+12:26:37 [INFO] Listening on /127.11.0.1:33977
+12:29:40 [INFO] §cCommand not found
+12:36:13 [SEVERE] Exception in thread "main" 
+12:36:13 [SEVERE] java.io.IOException: Input/output error
+12:36:13 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+12:36:13 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+12:36:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+12:36:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+12:36:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+12:36:24 [INFO] Enabled BungeeCord version unknown
+12:36:26 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:36:26 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:36:26 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:36:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:36:27 [INFO] Reload complete
+12:36:27 [INFO] Listening on /127.11.0.1:43807
+00:04:01 [INFO] Enabled BungeeCord version unknown
+00:04:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:04:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:04:03 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:04:04 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:04:05 [INFO] Reload complete
+00:04:05 [INFO] Listening on /127.11.0.1:41703
+15:24:27 [INFO] Enabled BungeeCord version unknown
+15:24:29 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:24:29 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:24:30 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:24:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:24:31 [INFO] Reload complete
+15:24:31 [INFO] Listening on /127.11.0.1:40787
+22:58:46 [INFO] Enabled BungeeCord version unknown
+22:58:47 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:58:47 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:58:48 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:58:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:58:49 [INFO] Reload complete
+22:58:49 [INFO] Listening on /127.11.0.1:36001
+23:31:03 [SEVERE] Exception in thread "main" 
+23:31:03 [SEVERE] java.io.IOException: Input/output error
+23:31:03 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+23:31:03 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+23:31:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+23:31:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+23:31:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+23:31:03 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+23:31:20 [INFO] Enabled BungeeCord version unknown
+23:31:22 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:31:22 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+23:31:22 [INFO] Listening websockets on localhost/127.0.0.1:8082
+23:31:23 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:31:23 [INFO] Listening on /127.11.0.1:42577
+23:31:23 [INFO] Reload complete
+23:33:01 [SEVERE] Exception in thread "main" 
+23:33:01 [SEVERE] java.io.IOException: Input/output error
+23:33:01 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+23:33:01 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+23:33:01 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+23:33:01 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+23:33:01 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+23:33:14 [INFO] Enabled BungeeCord version unknown
+23:33:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:33:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+23:33:16 [INFO] Listening websockets on localhost/127.0.0.1:8082
+23:33:16 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:33:16 [INFO] Reload complete
+23:33:17 [INFO] Listening on /127.11.0.1:41791
+18:44:02 [INFO] Enabled BungeeCord version unknown
+18:44:05 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:44:05 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:44:05 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:44:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:44:07 [INFO] Reload complete
+18:44:07 [INFO] Listening on /127.11.0.1:38921
+19:15:33 [SEVERE] Exception in thread "main" 
+19:15:33 [SEVERE] java.io.IOException: Input/output error
+19:15:33 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+19:15:33 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+19:15:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+19:15:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+19:15:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+19:15:33 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+19:15:33 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+19:15:33 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+19:15:33 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+19:15:45 [INFO] Enabled BungeeCord version unknown
+19:15:47 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:15:47 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:15:48 [INFO] Listening websockets on localhost/127.0.0.1:8082
+19:15:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:15:49 [INFO] Reload complete
+19:15:49 [INFO] Listening on /127.11.0.1:39633
+20:23:17 [SEVERE] Exception in thread "main" 
+20:23:33 [INFO] Enabled BungeeCord version unknown
+20:23:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:23:43 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:23:44 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:23:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:23:47 [INFO] Reload complete
+20:23:47 [INFO] Listening on /127.11.0.1:40537
+20:28:31 [SEVERE] Exception in thread "main" 
+20:28:31 [SEVERE] java.io.IOException: Input/output error
+20:28:31 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+20:28:32 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+20:28:32 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+20:28:32 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+20:28:45 [INFO] Enabled BungeeCord version unknown
+20:28:47 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:28:47 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:28:47 [INFO] Listening websockets on localhost/127.0.0.1:8082
+20:28:48 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:28:49 [INFO] Listening on /127.11.0.1:33991
+20:28:49 [INFO] Reload complete
+21:15:46 [SEVERE] Exception in thread "main" 
+21:16:03 [INFO] Enabled BungeeCord version unknown
+21:16:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:16:07 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:16:07 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:16:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:16:08 [INFO] Reload complete
+21:16:08 [INFO] Listening on /127.11.0.1:41191
+21:16:19 [SEVERE] Exception in thread "main" 
+21:16:31 [INFO] Enabled BungeeCord version unknown
+21:16:36 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:16:36 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:16:36 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:16:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:16:37 [INFO] Reload complete
+21:16:37 [INFO] Listening on /127.11.0.1:34683
+21:24:33 [SEVERE] Exception in thread "main" 
+21:24:33 [SEVERE] java.io.IOException: Input/output error
+21:24:33 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:24:33 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:24:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:24:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+21:24:33 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+21:24:33 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+21:24:50 [INFO] Enabled BungeeCord version unknown
+21:24:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:24:53 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:24:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:24:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:24:55 [INFO] Reload complete
+21:24:55 [INFO] Listening on /127.11.0.1:38169
+21:36:17 [SEVERE] Exception in thread "main" 
+21:36:17 [SEVERE] java.io.IOException: Input/output error
+21:36:17 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:36:17 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:36:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:36:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+21:36:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+21:36:17 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+21:36:17 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+21:36:17 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+21:36:17 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+21:36:36 [INFO] Enabled BungeeCord version unknown
+21:36:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:36:39 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:36:39 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:36:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:36:40 [INFO] Reload complete
+21:36:41 [INFO] Listening on /127.11.0.1:41613
+21:52:42 [SEVERE] Exception in thread "main" 
+21:52:42 [SEVERE] java.io.IOException: Input/output error
+21:52:42 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:52:42 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:52:42 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:52:52 [INFO] Enabled BungeeCord version unknown
+21:52:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:52:55 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:52:56 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:52:56 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:52:56 [INFO] Listening on /127.11.0.1:34447
+21:52:56 [INFO] Reload complete
+21:54:02 [SEVERE] Exception in thread "main" 
+21:54:02 [SEVERE] java.io.IOException: Input/output error
+21:54:02 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+21:54:02 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+21:54:02 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+21:54:02 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+21:54:02 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+21:54:13 [INFO] Enabled BungeeCord version unknown
+21:54:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:54:14 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:54:14 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:54:16 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:54:16 [INFO] Reload complete
+21:54:16 [INFO] Listening on /127.11.0.1:36701
+22:02:49 [SEVERE] Exception in thread "main" 
+22:02:49 [SEVERE] java.io.IOException: Input/output error
+22:02:49 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+22:02:49 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+22:02:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+22:02:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+22:02:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+22:02:49 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+22:02:49 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+22:02:49 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+22:02:49 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+22:03:14 [INFO] Enabled BungeeCord version unknown
+22:03:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:03:21 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:03:22 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:03:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:03:27 [INFO] Reload complete
+22:03:27 [INFO] Listening on /127.11.0.1:46207
+23:18:41 [INFO] Enabled BungeeCord version unknown
+23:18:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:18:43 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+23:18:43 [INFO] Listening websockets on localhost/127.0.0.1:8082
+23:18:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:18:44 [INFO] Reload complete
+23:18:44 [INFO] Listening on /127.11.0.1:41825
+16:19:54 [INFO] Enabled BungeeCord version unknown
+16:19:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:19:55 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:19:55 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:19:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:19:57 [INFO] Reload complete
+16:19:57 [INFO] Listening on /127.11.0.1:37793
+17:58:39 [INFO] Enabled BungeeCord version unknown
+17:58:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:58:42 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:58:42 [INFO] Listening websockets on localhost/127.0.0.1:8082
+17:58:43 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:58:43 [INFO] Reload complete
+17:58:44 [INFO] Listening on /127.11.0.1:39947
+11:51:11 [INFO] Enabled BungeeCord version unknown
+11:51:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:51:13 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:51:13 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:51:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:51:14 [INFO] Reload complete
+11:51:14 [INFO] Listening on /127.11.0.1:37125
+11:52:07 [SEVERE] Exception in thread "main" 
+11:52:07 [SEVERE] java.io.IOException: Input/output error
+11:52:07 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+11:52:07 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+11:52:07 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+11:52:07 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+11:52:07 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+11:52:07 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+11:52:07 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+11:52:07 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+11:52:07 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+11:52:07 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+11:52:07 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+11:52:17 [INFO] Enabled BungeeCord version unknown
+11:52:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:52:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:52:19 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:52:21 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:52:21 [INFO] Reload complete
+11:52:21 [INFO] Listening on /127.11.0.1:41125
+16:35:06 [INFO] Enabled BungeeCord version unknown
+16:35:08 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:35:08 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:35:09 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:35:10 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:35:10 [INFO] Reload complete
+16:35:10 [INFO] Listening on /127.11.0.1:37925
+00:04:18 [INFO] Enabled BungeeCord version unknown
+00:04:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:04:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:04:19 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:04:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:04:20 [INFO] Reload complete
+00:04:21 [INFO] Listening on /127.11.0.1:39131
+00:04:37 [SEVERE] Exception in thread "main" 
+00:04:37 [SEVERE] java.io.IOException: Input/output error
+00:04:37 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:04:37 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:04:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:04:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:04:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:04:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:04:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:04:37 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+00:04:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+00:04:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+00:04:37 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+00:04:44 [INFO] Enabled BungeeCord version unknown
+00:04:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:04:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:04:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:04:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:04:47 [INFO] Reload complete
+00:04:47 [INFO] Listening on /127.11.0.1:33203
+22:40:09 [INFO] Enabled BungeeCord version unknown
+22:40:10 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:40:10 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:40:10 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:40:11 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:40:11 [INFO] Reload complete
+22:40:11 [INFO] Listening on /127.11.0.1:36425
+15:20:23 [INFO] Enabled BungeeCord version unknown
+15:20:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:20:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:20:26 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:20:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:20:28 [INFO] Reload complete
+15:20:28 [INFO] Listening on /127.11.0.1:41161
+12:12:53 [INFO] Enabled BungeeCord version unknown
+12:12:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:12:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:12:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:12:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:12:55 [INFO] Reload complete
+12:12:55 [INFO] Listening on /127.11.0.1:33725
+12:20:30 [SEVERE] Exception in thread "main" 
+12:20:30 [SEVERE] java.io.IOException: Input/output error
+12:20:30 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+12:20:30 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+12:20:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+12:20:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+12:20:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+12:20:30 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+12:20:37 [INFO] Enabled BungeeCord version unknown
+12:20:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:20:39 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:20:39 [INFO] Listening websockets on localhost/127.0.0.1:8082
+12:20:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:20:41 [INFO] Reload complete
+12:20:41 [INFO] Listening on /127.11.0.1:41253
+13:03:21 [INFO] Enabled BungeeCord version unknown
+13:03:23 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:03:24 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:03:24 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:03:25 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:03:25 [INFO] Reload complete
+13:03:25 [INFO] Listening on /127.11.0.1:43021
+13:08:37 [INFO] Enabled BungeeCord version unknown
+13:08:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:08:38 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:08:38 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:08:38 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:08:38 [INFO] Reload complete
+13:08:39 [INFO] Listening on /127.11.0.1:36371
+22:56:24 [INFO] Enabled BungeeCord version unknown
+22:56:26 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:56:26 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:56:26 [INFO] Listening websockets on localhost/127.0.0.1:8082
+22:56:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:56:26 [INFO] Reload complete
+22:56:26 [INFO] Listening on /127.11.0.1:34365
+15:03:37 [INFO] Enabled BungeeCord version unknown
+15:03:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:03:39 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:03:39 [INFO] Listening websockets on localhost/127.0.0.1:8082
+15:03:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:03:41 [INFO] Reload complete
+15:03:41 [INFO] Listening on /127.11.0.1:41967
+00:27:39 [INFO] Enabled BungeeCord version unknown
+00:27:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:27:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:27:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:27:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:27:41 [INFO] Reload complete
+00:27:42 [INFO] Listening on /127.11.0.1:46367
+00:29:01 [SEVERE] Exception in thread "main" 
+00:29:01 [SEVERE] java.io.IOException: Input/output error
+00:29:01 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:29:01 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:29:12 [INFO] Enabled BungeeCord version unknown
+00:29:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:29:14 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:29:14 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:29:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:29:15 [INFO] Reload complete
+00:29:16 [INFO] Listening on /127.11.0.1:43971
+00:38:49 [INFO] Enabled BungeeCord version unknown
+00:38:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:38:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:38:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:38:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:38:51 [INFO] Reload complete
+00:38:51 [INFO] Listening on /127.11.0.1:39705
+13:58:54 [INFO] Enabled BungeeCord version unknown
+13:59:38 [INFO] Enabled BungeeCord version unknown
+13:59:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:59:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:59:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+13:59:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:59:40 [INFO] Reload complete
+13:59:40 [INFO] Listening on /127.11.0.1:46089
+14:31:44 [INFO] §cCommand not found
+14:31:48 [INFO] §cCommand not found
+18:41:19 [INFO] Enabled BungeeCord version unknown
+18:41:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:41:20 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:41:20 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:41:21 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:41:21 [INFO] Reload complete
+18:41:21 [INFO] Listening on /127.11.0.1:41435
+11:01:12 [INFO] Enabled BungeeCord version unknown
+11:01:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:01:13 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:01:14 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:01:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:01:14 [INFO] Reload complete
+11:01:14 [INFO] Listening on /127.11.0.1:46355
+11:14:44 [INFO] Enabled BungeeCord version unknown
+11:14:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:14:45 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:14:45 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:14:45 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:14:45 [INFO] Reload complete
+11:14:46 [INFO] Listening on /127.11.0.1:34217
